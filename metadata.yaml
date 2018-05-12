@@ -1,5 +1,8 @@
 _repo: -Over-the-Top---by-an-American-Soldier-Who-Went--13-Together-with-Tommy-s-Dictionary-of-the-Tr__7962
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Empey, Arthur Guy
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2596
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Guy_Empey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7962#-Over-the-Top---by-an-American-Soldier-Who-Went--13-Together-with-Tommy-s-Dictionary-of-the-Tr_
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
